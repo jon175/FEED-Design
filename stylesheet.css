@@ -1,0 +1,192 @@
+html {
+    background-color:#EDF2C5;
+
+}
+
+header{
+    border-top:50px;
+    color:#75874F ;
+    font-family: Arial Black;
+    margin-left: 150px;
+
+}
+footer{
+  margin-top: 100px;
+  background-color: #75874F;
+  width:1250px;
+  height:60px;
+}
+
+footer p{
+  padding-top: 24px;
+  padding-bottom: 24px;
+  padding-left:463px;
+  font-size: 12px;
+  font-family: Arial Black;
+  color: #EDF2C5;
+
+}
+/*botton club*/
+.botton1{
+ float:right;
+ margin-right: 10px;
+
+}
+.botton2{
+float:right;
+margin-right:6px;
+}
+.style{
+
+  float:right;
+  margin-right:11px;
+  margin-top:13px;
+}
+.join{
+    border:#889C5B 1px solid;
+    float:right;
+    margin-right: 155px;
+    padding-left: 9px;
+    border-radius: 5px;
+    line-height: 0px;
+    margin-top: 13px;
+    width:48px;
+    height: 20px;
+}
+.join p{
+    padding-left: 3px;
+    font-size: 12px;
+    font-family: Arial Black;
+    color:#778A50
+}
+.login{
+    border:#889C5B 1px solid;
+    float:right;
+    margin-right: 9px;
+    padding-left: 9px;
+    border-radius: 5px;
+    line-height: 0px;
+    margin-top: 13px;
+    width:50px;
+    height: 20px;
+}
+.login p{
+  font-size: 12px;
+  font-family: Arial Black;
+}
+/*nav*/
+.site-nav{
+     margin-left: 155px;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    background-color: #75874F;
+    font-family: Arial Black;
+    font-size: 16px;
+    width: 940px;
+    height: 43px;
+}
+.site-nav li{
+    list-style: none;
+    float:left;
+    padding-top: 10px;
+  }
+.site-nav ul{
+
+}
+.site-nav a{
+    color: #EDF2C5;
+    margin-left: : 31px;
+    margin-right: 60px;
+}
+.container img{
+  width:940px;
+  height:448px;
+  border-radius: 5px;
+
+}
+/*container*/
+.container {
+  margin-left: 156px;
+  height:600px;
+}
+
+/*vegetables*/
+.vegetables{
+  float: left;
+
+}
+.vegetables div{
+  width:444px;
+  height:44px;
+  background-color: #75874F;
+  border-radius: 5px;
+  margin-bottom: 17px;
+}
+.vegetables h1{
+  font-size:16px;
+  font-family: Arial Black;
+  color: #EDF2C5;
+  padding:16px 31px;
+  padding-top: 10px;
+}
+.vegetables img{
+  width:140px;
+  height:140px;
+  padding-right: 8px;
+  border-radius: 5px;
+}
+
+/*contact*/
+.contact{
+  margin-right:150px;
+  float:right;
+
+}
+
+.pbg p{
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 3px;
+    font-family: Arial;
+    font-size: 12px;
+    line-height: 20px;
+    color:#898989
+  }
+
+  .pbg{
+    border-radius: 5px;
+    background-color:#F5F8B9;
+    width:444px;
+    height:140px;
+    margin-top:16px;
+  }
+
+.EP p{
+  font-family: Arial;
+  font-size: 12px;
+  padding-left: 15px;
+line-height: 10px;
+}
+.contact h1{
+  padding: 16px 31px;
+  font-size:16px;
+  font-family: Arial Black;
+  color: #EDF2C5;
+  padding-top: 10px;
+}
+.contactbg{
+  width:444px;
+  height:44px;
+  border-radius: 5px;
+  background-color: #75874F;
+}
+
+.clear{
+  clear:both;
+}
+
+.dp{
+
+
+}
